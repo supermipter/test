@@ -11,4 +11,3 @@ class Vector:
         self.y=self.y/l
     def show(self):
         print('('+str(self.x)+';'+str(self.y)+')')
-
