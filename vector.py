@@ -9,5 +9,4 @@ class Vector:
         l=self.length()
         self.x=self.x/l
         self.y=self.y/l
-    def show(self):
-        print('('+str(self.x)+';'+str(self.y)+')')
+
